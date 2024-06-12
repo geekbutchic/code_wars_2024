@@ -15,4 +15,3 @@ Write a program where Alex can input (n) how many times the hoop goes round and 
 const hoopCount = n => {
     
 };
-
